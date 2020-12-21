@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/contactpersonen/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/contactpersonen/static/js/main.cb2e7c9b.chunk.js",
+    "main.js.map": "/contactpersonen/static/js/main.cb2e7c9b.chunk.js.map",
+    "runtime-main.js": "/contactpersonen/static/js/runtime-main.c70ca3ab.js",
+    "runtime-main.js.map": "/contactpersonen/static/js/runtime-main.c70ca3ab.js.map",
+    "static/js/2.ae9c64ef.chunk.js": "/contactpersonen/static/js/2.ae9c64ef.chunk.js",
+    "static/js/2.ae9c64ef.chunk.js.map": "/contactpersonen/static/js/2.ae9c64ef.chunk.js.map",
+    "static/js/3.8c833c40.chunk.js": "/contactpersonen/static/js/3.8c833c40.chunk.js",
+    "static/js/3.8c833c40.chunk.js.map": "/contactpersonen/static/js/3.8c833c40.chunk.js.map",
+    "index.html": "/contactpersonen/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/contactpersonen/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.ae9c64ef.chunk.js.LICENSE.txt": "/contactpersonen/static/js/2.ae9c64ef.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/contactpersonen/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c70ca3ab.js",
+    "static/js/2.ae9c64ef.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.cb2e7c9b.chunk.js"
+  ]
+}
